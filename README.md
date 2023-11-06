@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
-<h3> Experienced Data Scientist with an M.Tech in Statistical Computing from JNU, currently employed in the same field⚡⚡ </h3>
+<h3> Experienced Data analyst with an M.Tech in Statistical Computing from JNU, currently employed in the same field⚡⚡ </h3>
  
  - I’m currently working as a Data scientist at ThouCentric!
  
